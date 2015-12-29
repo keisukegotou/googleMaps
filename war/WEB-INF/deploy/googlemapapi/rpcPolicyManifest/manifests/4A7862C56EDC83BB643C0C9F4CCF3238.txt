@@ -1,0 +1,2 @@
+serviceClass: com.ecample.mypj.client.GreetingService
+path: 4430718B9621748FD03DCC673B2A9EE5.gwt.rpc

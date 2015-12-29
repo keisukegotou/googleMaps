@@ -1,0 +1,3 @@
+# Module googlemapapi
+# RPC service class, partial path of RPC policy file
+com.ecample.mypj.client.GreetingService, 4430718B9621748FD03DCC673B2A9EE5.gwt.rpc
